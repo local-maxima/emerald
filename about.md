@@ -1,21 +1,26 @@
 ---
 layout: page
-title: About Emerald
+title: About me
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+This is a blog about Economics, Philosophy, Public Policy, conceptions of suffering, European Politics, sentience, international security and miscallaneous topics I find intriguing
+
+- I am trying to reduce my confusion about the world 
+- eveltually figuring out how to make the world a better place.
+
+Please let me know if you ahve any comments or sugggestions. Thats the reason for the existence of this blog.
+
+I worry about the [future of humanity](https://github.com/KingFelix/emerald/), [poverty and animals](http://blog.practicalethics.ox.ac.uk/2018/02/the-psychology-of-speciesism-how-we-privilege-certain-animals-over-others/)   and  [want to help as much as possible](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring).
+
+
+
+I became convinced that sometime randomizing search can be the best way of getting out of local maxima. Hence, I mostly write about more or less random things I wonder about but I have never really had the chance to think about them a lot  so I pretty much scratch at the surface.
+
+
+I am on  [facebook](https://www.facebook.com/charlotte.siegmann1) , [twitter](https://twitter.com/LotteSiegmann) and [linkedin](https://www.linkedin.com/in/charlotte-siegmann-540035154/).
 
 ![Emerald](img/Emerald01.png "Emerald")
 
 ### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
