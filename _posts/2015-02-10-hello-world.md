@@ -1,4 +1,14 @@
 ---
-title: Hello World
+title: Hello
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
+Please let me know if you ahve any comments or sugggestions. Thats the reason for the existence of this blog.
+
+I am here to put my writing out there
+
+
+This is a blog about Economics, Philosophy, Public Policy, conceptions of suffering, European Politics, sentience, international security - trying to reduce my confusion figuring out how to make the world a better place.
+
+
+I became convinced that sometime randomizing search can be the best way of getting out of local maxima. Hence, I mostly write about more or less random things I wonder about but I have never really had the chance to think about them a lot  so I pretty much scratch at the surface.
+
+I worry about the future of humanity (hyperlink longtermism), inaction (hyperlink dArius post), poverty and animals (hyperlink speciesims)  and want to help as much as possible (hyperlink EA)
